@@ -1,3 +1,7 @@
+# Me
+
+A Developer , Weeb , Pervert , Etc
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=legendaryemoji&show_icons=false&theme=radical)
 
 <!--

@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=legendaryemoji&show_icons=false&theme=radical)
 
 <!--
